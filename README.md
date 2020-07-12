@@ -4,4 +4,4 @@
 
 ![home page](home.png)
 
-## Live site: https://google-books-search-and-save.herokuapp.com/saved
+## Live site: https://google-books-search-and-save.herokuapp.com
